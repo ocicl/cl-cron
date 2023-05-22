@@ -1,0 +1,9 @@
+* cl-cron
+
+A simple tool that provides cron like facilities directly inside of common lisp.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/ciel-lang/cl-cron.git |
+| commit  | 6dd37c4                                      |
+| systems | cl-cron                                      |
+|---------+----------------------------------------------|
